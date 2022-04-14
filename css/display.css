@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+li {
+    list-style: none;
+}
+
+img {
+    vertical-align: top;
+    border: none
+}
+
+#rollcall {
+    width: 900px;
+    height: 30px;
+    margin: 10px auto;
+    line-height: 30px;
+
+}
+
+#rollcall li {
+    list-style: none;
+    display: inline-block;
+    /* border-right: 1px solid orange; */
+    text-align: center;
+    width: 25%;
+
+}
+
+/* #rollcall li:first-child {
+
+    border-left: 1px solid orange; 
+
+} */
